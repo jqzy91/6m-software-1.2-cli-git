@@ -1,0 +1,21 @@
+* {
+  color: #ffffff;
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: #333333;
+  padding: 5%;
+}
+
+img {
+  height: 80px;
+  width: 120px;
+}
+
+.hobbiesList {
+  /* margin-top: 200px; */
+  margin: 0px 0px 5px -25px;
+}
